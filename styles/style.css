@@ -1,0 +1,210 @@
+.main {
+    background-color: rgb(22, 22, 22);
+    }
+
+.mainW {
+        background-color: rgb(22, 22, 22);
+        }
+
+.rules{
+            background-color: rgb(22, 22, 22);
+            }
+
+
+.logo img{
+    max-width: 15rem;
+}
+
+.jumbo {
+  padding: 5rem;
+  margin-top: 100px;
+  background-image: url(/images/Jumbo.png);
+  background-color: black;
+  background-size: 100%;
+  background-repeat: no-repeat;
+
+}
+
+@media (max-width: 1100px ) {
+  .jumbo {
+      padding: 5rem;
+      margin-top: 100px;
+      background-color: black;
+      background-image: none;
+  } 
+}
+
+.display {
+    margin-bottom: 5rem;
+    color: bisque;
+}
+
+.pJumbo {
+    color: bisque;
+    font-size: larger;
+    max-width: 60%;
+}
+
+.resources {
+    align-items: center;
+   padding: 10rem;
+}
+
+.cardTitle {
+    color: bisque;
+text-align: center;
+margin-bottom: 5rem;
+font-weight: bold;
+}
+
+.WIAR {
+    align-items: center;
+   padding: 10rem;
+}
+
+.titleDiv {
+    margin-bottom: 2rem;
+}
+
+#picRight {
+padding:0%;
+}
+
+.SRD5 {
+    align-items: center;
+   padding: 5rem;
+}
+
+.WSRD5 {
+    text-align: center;
+    padding: 10rem;   
+    color: bisque;
+}
+
+.WSRD5 h1{
+    padding-bottom: 2rem;
+    font-weight: bold;
+}
+
+.WSRD5 p{
+    font-size: larger;
+}
+
+#Try {
+    padding-top: 5rem;
+}
+
+#BTNGEN {
+  background-color: red;
+border: none;
+margin: 5rem;
+}
+
+.btncont {
+  margin: 5rem;
+}
+
+.titGen {
+  text-align: center;
+  color:bisque;
+}
+
+.scroll{
+margin-left: 10rem;
+}
+
+.titGen h5 {
+  margin-top: 5rem;
+}
+
+*.btn {
+  background-color: red;
+  border: none
+}
+
+.races {
+text-align: center;
+}
+.races h5 {
+  color:bisque;
+  margin-top: 5rem;
+}
+
+.races h6 {
+  color:bisque;
+}
+
+.but {
+  margin-top:2rem;
+}
+
+.classes {
+  text-align: center;
+  }
+  .classes h5 {
+    color:bisque;
+    margin-top: 5rem;
+  }
+  
+  .classes h6 {
+    color:bisque;
+  }
+
+  .ins {
+    text-align: center;
+    }
+    .ins {
+      color:bisque;
+      margin-top: 5rem;
+      margin-bottom: 5rem;
+    }
+    
+    .ins {
+      color:bisque;
+    }
+
+/* footer */ 
+
+.footer-clean {
+    padding:50px 0;
+    background-color:#343a40;
+    color:bisque;
+  }
+  
+  .footer-clean h3 {
+    margin-top:0;
+    margin-bottom:12px;
+    font-weight:bold;
+    font-size:16px;
+  }
+  
+  .footer-clean ul {
+    padding:0;
+    list-style:none;
+    line-height:1.6;
+    font-size:14px;
+    margin-bottom:0;
+  }
+  
+  .footer-clean ul a {
+    color:inherit;
+    text-decoration:none;
+    opacity:0.8;
+  }
+  
+  .footer-clean ul a:hover {
+    opacity:1;
+  }
+  
+  @media (max-width:767px) {
+    .footer-clean .item {
+      text-align:center;
+      padding-bottom:20px;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .footer-clean .item.social {
+      text-align:center;
+    }
+  }
